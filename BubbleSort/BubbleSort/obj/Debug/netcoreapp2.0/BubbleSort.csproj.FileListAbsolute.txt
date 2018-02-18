@@ -1,0 +1,11 @@
+D:\projects\C#\CS_DS_And_Algorithms\BubbleSort\BubbleSort\bin\Debug\netcoreapp2.0\BubbleSort.deps.json
+D:\projects\C#\CS_DS_And_Algorithms\BubbleSort\BubbleSort\bin\Debug\netcoreapp2.0\BubbleSort.runtimeconfig.json
+D:\projects\C#\CS_DS_And_Algorithms\BubbleSort\BubbleSort\bin\Debug\netcoreapp2.0\BubbleSort.runtimeconfig.dev.json
+D:\projects\C#\CS_DS_And_Algorithms\BubbleSort\BubbleSort\bin\Debug\netcoreapp2.0\BubbleSort.dll
+D:\projects\C#\CS_DS_And_Algorithms\BubbleSort\BubbleSort\bin\Debug\netcoreapp2.0\BubbleSort.pdb
+D:\projects\C#\CS_DS_And_Algorithms\BubbleSort\BubbleSort\obj\Debug\netcoreapp2.0\BubbleSort.csprojResolveAssemblyReference.cache
+D:\projects\C#\CS_DS_And_Algorithms\BubbleSort\BubbleSort\obj\Debug\netcoreapp2.0\BubbleSort.csproj.CoreCompileInputs.cache
+D:\projects\C#\CS_DS_And_Algorithms\BubbleSort\BubbleSort\obj\Debug\netcoreapp2.0\BubbleSort.AssemblyInfoInputs.cache
+D:\projects\C#\CS_DS_And_Algorithms\BubbleSort\BubbleSort\obj\Debug\netcoreapp2.0\BubbleSort.AssemblyInfo.cs
+D:\projects\C#\CS_DS_And_Algorithms\BubbleSort\BubbleSort\obj\Debug\netcoreapp2.0\BubbleSort.dll
+D:\projects\C#\CS_DS_And_Algorithms\BubbleSort\BubbleSort\obj\Debug\netcoreapp2.0\BubbleSort.pdb
